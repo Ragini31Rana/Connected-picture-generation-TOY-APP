@@ -11,10 +11,12 @@ Connected picture generation TOY APP is an app that allows user to generate and 
 
 ## Requirements
 The following modules are required to be installed in colab:
-> pip install -r requirements.txt
 - diffusers
 - transformers
 - accelerate
+
+Use the following code to install the requirements in your environment.
+>> pip install -r requirements.txt
 
 > Changing the runtime type to GPU is the first necessary step to run the notebook if you are using the google colab.
 
