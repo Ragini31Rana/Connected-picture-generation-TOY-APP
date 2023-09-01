@@ -31,6 +31,9 @@ TOY app uses the following open source model from hugging face to work:
 
 ## Installation and Use
 - Clone the repository
+```sh
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
 - Move inside the repo
 - Install  the requirements first
 - Use the jupyter or google colab for experiments
