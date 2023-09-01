@@ -27,8 +27,11 @@ TOY app uses the following open source model from hugging face to work:
 
 - [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-2) - Model that can be used to generate and modify images based on text prompts.
 
-
-
+## Installation and Use
+- Clone the repository
+- Move inside the repo
+- Install  the requirements first
+- Use the jupyter or google colab for experiments
 
 
 
