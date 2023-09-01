@@ -9,6 +9,8 @@ Connected picture generation TOY APP is an app that allows user to generate and 
 - Notebook2.ipynb contains the code for picture generation from two images.
 - requirements.txt contains all the necessary modules to be installed for the project.
 
+> This project is still in its developing stage.
+
 ## Requirements
 The following modules are required to be installed in colab:
 - diffusers
