@@ -16,7 +16,9 @@ The following modules are required to be installed in colab:
 - accelerate
 
 Use the following code to install the requirements in your environment.
->> pip install -r requirements.txt
+```sh
+pip install -r requirements.txt
+```
 
 > Changing the runtime type to GPU is the first necessary step to run the notebook if you are using the google colab.
 
