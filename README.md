@@ -18,8 +18,9 @@ The following modules are required to be installed in colab:
 
 > Changing the runtime type to GPU is the first necessary step to run the notebook.
 
-##Tech
+## Tech
 TOY app uses the following open source model from hugging face to work:
+
 - [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-2) - Model that can be used to generate and modify images based on text prompts.
 
 
