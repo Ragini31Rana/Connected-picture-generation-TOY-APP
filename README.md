@@ -16,7 +16,7 @@ The following modules are required to be installed in colab:
 - transformers
 - accelerate
 
-> Changing the runtime type to GPU is the first necessary step to run the notebook.
+> Changing the runtime type to GPU is the first necessary step to run the notebook if you are using the google colab.
 
 ## Tech
 TOY app uses the following open source model from hugging face to work:
