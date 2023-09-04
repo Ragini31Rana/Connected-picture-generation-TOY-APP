@@ -1,7 +1,7 @@
 # Connected-picture-generation-TOY-APP
 Connected picture generation TOY APP is an app that allows user to generate and connect pictures just with a prompt using stable diffusion model from hugging face.
 - Provide two images and a prompt as an input
-- Press Generate and then see the magic
+- Press Generate and then you will get the output image based on the prompt.
 
 > This repository contains the following files:
 - Notebook1.ipynb contains the code for picture generation from one image.
@@ -16,11 +16,6 @@ The following modules are required to be installed:
 - transformers
 - accelerate
 
-Use the following code to install the requirements in your environment.
-```sh
-pip install -r requirements.txt
-```
-
 ## Tech
 TOY app uses the following open source model from hugging face to work:
 
@@ -29,11 +24,11 @@ TOY app uses the following open source model from hugging face to work:
 ## Installation and Use
 - Clone the repository
 ```sh
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/Ragini31Rana/Connected-picture-generation-TOY-APP.git
+cd Connected-picture-generation-TOY-APP
+pip install -r requirements.txt
 ```
-- Move inside the repo
-- Install  the requirements first
-- Use the jupyter or google colab for experiments
+you can run the jupiter notebooks
 
 
 
